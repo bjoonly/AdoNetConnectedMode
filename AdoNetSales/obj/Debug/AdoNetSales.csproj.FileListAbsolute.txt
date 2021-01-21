@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\AdoNetSales\AdoNetSales\bin\Debug\AdoNetSales.exe.config
+C:\Users\Admin\source\repos\AdoNetSales\AdoNetSales\bin\Debug\AdoNetSales.exe
+C:\Users\Admin\source\repos\AdoNetSales\AdoNetSales\bin\Debug\AdoNetSales.pdb
+C:\Users\Admin\source\repos\AdoNetSales\AdoNetSales\obj\Debug\AdoNetSales.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AdoNetSales\AdoNetSales\obj\Debug\AdoNetSales.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AdoNetSales\AdoNetSales\obj\Debug\AdoNetSales.exe
+C:\Users\Admin\source\repos\AdoNetSales\AdoNetSales\obj\Debug\AdoNetSales.pdb
